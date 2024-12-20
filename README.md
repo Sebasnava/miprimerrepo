@@ -1,5 +1,5 @@
 # miprimerrepo
 
-## Bienvedido
+## Bienvenido
 
 esta es mi primer repo
